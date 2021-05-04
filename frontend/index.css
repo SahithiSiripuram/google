@@ -58,6 +58,8 @@ li.navlinks a:hover
   clear: both;
   padding-top: 112px;
   padding-bottom: 20px;
+  height:92px;
+  width:272px;
 }
 .input
 {
@@ -65,7 +67,7 @@ li.navlinks a:hover
 }  
 .inputsize
 { 
-  width: 600px;
+  width: 450px;
   border-radius: 25px;
   line-height: 32px;
   padding: 20px 10px;
@@ -84,7 +86,7 @@ li.navlinks a:hover
 {
   text-align: center;
   padding: 10px;
-  font-size: 16px;
+  font-size: 12px;
 }
 .lang a
 {
@@ -100,7 +102,7 @@ li.navlinks a:hover
   border: 1px solid #f8f9fa;
   border-radius: 4px;
   color: #3c4043;
-  font-size: 16px;
+  font-size: 14px;
   margin: 11px 4px;
   padding: 0 16px;
   line-height: 27px;
@@ -124,7 +126,7 @@ li.navlinks a:hover
 .foot span
 {
   color: #666666;
-  font-size: 20px;
+  font-size: 15px;
   padding: 10px;
 }
 .foot ul li 
