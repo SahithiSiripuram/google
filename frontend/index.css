@@ -1,0 +1,149 @@
+body 
+{
+  margin: 0;
+  padding: 0;
+  font-family: 'Roboto', sans-serif;
+}
+header 
+{
+  width: 100%;
+}
+ul 
+{
+  list-style: none;
+}
+.navbar 
+{
+  float: right;
+}
+.navbar li 
+{
+  display: inline-block;
+  padding: 8px;
+}
+.navbar .signin 
+{
+  background: #4887ef; 
+  margin-right: 25px;
+  padding: 7px 15px;
+  border-radius: 3px; 
+  font-weight: bold;
+}
+.navlinks 
+{
+  color: #404040;
+}
+.head a 
+{
+  text-decoration: none;
+  color: inherit;
+}
+li.navlinks a:hover 
+{
+  text-decoration: underline;
+}
+.signin:hover 
+{ 
+  box-shadow: 1px 1px 5px #999;
+}
+.signin 
+{
+  color: #fff;
+}
+.google .logo 
+{
+  text-align: center;
+  display: block;
+  margin: 0 auto;
+  clear: both;
+  padding-top: 112px;
+  padding-bottom: 20px;
+}
+.input
+{
+  text-align: center;
+}  
+.inputsize
+{ 
+  width: 600px;
+  border-radius: 25px;
+  line-height: 32px;
+  padding: 20px 10px;
+  border-color: lightgray;
+  height: 45px;
+}
+.input .inputsize
+{
+  padding: 0 8px;
+}
+.buttonbar
+{
+  text-align: center;
+}
+.lang
+{
+  text-align: center;
+  padding: 10px;
+  font-size: 16px;
+}
+.lang a
+{
+  padding: 10px;
+  text-decoration: none;
+}
+.lang a:hover{
+  text-decoration-line: underline;
+}
+.buttons 
+{
+  background-color: #f8f9fa;
+  border: 1px solid #f8f9fa;
+  border-radius: 4px;
+  color: #3c4043;
+  font-size: 16px;
+  margin: 11px 4px;
+  padding: 0 16px;
+  line-height: 27px;
+  height: 36px;
+  text-align: center;
+}
+.foot  
+{
+  background: #f2f2f2;
+  border-top: solid 2px #e4e4e4;
+  position: fixed;
+  bottom: 0;
+  padding-bottom: 0;
+  width: 100%;
+}
+.foot a 
+{
+  text-decoration: none;
+  color: inherit;
+}
+.foot span
+{
+  color: #666666;
+  font-size: 20px;
+  padding: 10px;
+}
+.foot ul li 
+{
+  display: inline;
+  color: #666666;
+  font-size: 20px;
+  padding: 10px;
+}
+.foot ul 
+{
+  float: left;
+  padding: 1px;
+}
+.foot ul a:hover 
+{
+  text-decoration: underline;
+}
+.footerright 
+{
+  float: right;
+}
